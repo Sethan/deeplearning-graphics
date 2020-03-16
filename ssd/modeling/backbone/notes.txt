@@ -1,0 +1,41 @@
+default 38.4% -> 78% 6000 it
+
+
+batch norm 53.4% -> 82.32 % 10k
+
+batch norm ELU 51.38 % -> 82.23 % 10k
+
+dropout batch elo 54% -> 80%
+
+10x inc lr dropout from 4-28%, 64.7% -> 84.79% 10k
+
+dropout 6-30% 61.1% -> 85% 7k
+
+
+increased filter numbers 
+
+64% -> 86% 15k
+
+increased filter 
+
+69 % 86-87%
+
+
+increased dropout 30%->40%
+68.9% 86-87 % at 8.5k
+
+
+increased dropout 30% 60% increased filter numbers
+64.5% 87.5% 8k
+increased filter numbers
+67% 88.8%
+
+increased dropout 63% increased filter number
+
+61.4% 88.7%
+
+increased dropout overall and 67% peak
+
+58.8%
+
+increased layer numbers dropout set to linear from 5 to 55% increased lr
